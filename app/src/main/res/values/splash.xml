@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_mylogo</item>
+        <item name="postSplashScreenTheme">@style/Theme.StayTune</item>
+        <item name="windowSplashScreenAnimationDuration">4000</item>
+    </style>
+</resources>
